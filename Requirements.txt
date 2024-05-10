@@ -1,4 +1,8 @@
 tk
-customtkinter
-pillow
-mysql-connector-python
+customtkinter~=5.2.2
+pillow~=10.3.0
+mysql-connector-python~=8.4.0
+discord-webhook
+
+pymongo~=4.7.2
+colorama~=0.4.6
