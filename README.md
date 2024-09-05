@@ -1,6 +1,6 @@
 # Unified Travelling and Transport System (UTTS)
 
-The Unified Travelling and Transport System (UTTS) is an innovative software platform designed to provide users with a seamless and comprehensive travel service experience. Developed using Python and powered by MongoDB, UTTS ensures efficient scheduling and management of travel plans across various modes of transportation.
+The Unified Travelling and Transport System (UTTS) is an innovative software platform designed to provide users with a seamless and comprehensive travel service experience. Developed using Python and powered by SQL and MongoDB, UTTS ensures efficient scheduling and management of travel plans across various modes of transportation.
 
 ## Table of Contents
 
